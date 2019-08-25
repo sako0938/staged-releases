@@ -1,2 +1,3 @@
-balena.en*
+balena.env
+balena.env*
 python/env/*
