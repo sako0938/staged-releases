@@ -1,3 +1,4 @@
 balena.env
 balena.env*
 python/env/*
+python/__pycache__/
